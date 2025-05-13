@@ -17,5 +17,5 @@
     // Tell ts-node CLI to install the --loader automatically
     "esm": true
   },
-  "include": ["tests", "examples"]
+  "include": ["tests", "examples", "generated/index.ts"]
 }
