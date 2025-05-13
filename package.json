@@ -6,7 +6,7 @@
   "repository": "https://github.com/Ellipsis-Labs/plasma",
   "main": "dist/generated/types/index.js",
   "types": "dist/generated/types/index.d.ts",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "dependencies": {
     "@coral-xyz/borsh": "^0.30.1",
